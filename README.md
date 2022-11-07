@@ -35,7 +35,7 @@ O Calendário da Copa é um projeto que mostra os jogos da Copa de 2022.
 
 <p align="center">
   <img alt="Print do meu projeto" src="./assets/projeto-img1.png"  width="100%">
-  <img alt="Segunda print do meu projeto" src="./assets/projeto-img2.png" width="100%">
+  <img alt="Segunda print do meu projeto" src="./assets/projeto-img2..png" width="100%">
 </p>
 
 ## 🔖 Layout
